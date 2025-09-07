@@ -1,0 +1,23 @@
+input{
+    height: 45px;
+    width: 250px;
+    border: none;
+    font-size: 20px;
+    border-radius: 12px;
+    outline: none;
+    padding-left: 10px;
+    color: red;
+    box-shadow: 5px 5px 5px 5px black;
+
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+body{
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
